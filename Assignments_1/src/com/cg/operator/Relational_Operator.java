@@ -9,9 +9,10 @@ public class Relational_Operator {
 		
 		int b=sc.nextInt();
 		
-		boolean  res=a>b;
+		boolean  res= (a > b);
 		
 		System.out.println(res);
+		System.out.println(a==b);
 
 	}
 
