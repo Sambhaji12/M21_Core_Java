@@ -13,6 +13,7 @@ public class ArrayListExample  {
 		al.add(11);
 		al.add(12);
 		al.add(13);
+		al.add(11);
 		System.out.println(al.contains(11));
 		
 		System.out.println("Elements of ArrayList::"+" "+al);
