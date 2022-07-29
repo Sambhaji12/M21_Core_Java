@@ -9,7 +9,7 @@ public class Generic_Interface implements abc {
 
 	public static void main(String[] args) {
 		
-		Generic_Interface <Integer ,String>gi=new 	Generic_Interface<Integer,String >();
+		Generic_Interface gi=new 	Generic_Interface();
 		gi.display1(11);
 		gi.display2(12);
 
