@@ -15,14 +15,12 @@ public class Generic_Interface implements abc {
 
 	}
 
-	@Override
-	public void display1(Object x)
+	public void display1(Object X)
 	{
-		System.out.println("value of x is:"+x);
+		System.out.println("value of x is:"+X);
 		
 	}
 
-	@Override
 	public void display2(Object y) 
 	{
 		System.out.println("value of y is:"+y);
