@@ -8,8 +8,6 @@ public class Example3 {
 		Scanner s=new Scanner(System.in);
 		String str= "M21_- sabnam";
 	
-		
-		
 		String[] res=str.split("-")	;	
 		
 		for(String i:res)
